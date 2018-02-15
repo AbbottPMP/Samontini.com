@@ -28,7 +28,7 @@ get_header();
           <div class="col-xs-12 col-sm-12 single_block_home mid_bg1">
             <div class="col-xs-6 col-sm-6">
               <h4>Media</h4>
-              <p>View a snapshot of my accomplishments, and check out some of the pictures I've taken in the Photo Gallery.</p>
+              <p>View a snapshot of my accomplishments.</p>
               <p> <a class="btn view_now" href="http://www.samontini.com/media/">VIEW NOW</a> </p>
             </div>
           </div>
@@ -39,7 +39,7 @@ get_header();
           <div class="col-xs-12 col-sm-12 single_block_home mid_bg2">
             <div class="col-xs-6 col-sm-6">
               <h4>Experience</h4>
-              <p>Take a look at some of the positions I've held and see the roles that helped shape me into the person I am today.</p>
+              <p>Learn about my professional background.</p>
               <p> <a class="btn view_now" href="http://www.samontini.com/experience/">LEARN MORE</a> </p>
             </div>
           </div>
