@@ -41,7 +41,7 @@ get_header();
 </div>
 	
  <div class="contact_info">
-<span>LinkedIn: <a href="https://www.linkedin.com/in/samontini" target="_blank">Sam Abbott</a></span>
+<span>LinkedIn: <a href="https://www.linkedin.com/in/abbottpmp/" target="_blank">Sam Abbott</a></span>
 
 <!--span>Phone: 706.615.8664</span>
 <span>E-mail: <mail to="sam@samontini.com">sam@samontini.com</mail></span>
