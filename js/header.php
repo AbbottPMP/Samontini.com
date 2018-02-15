@@ -108,7 +108,7 @@
           <div class="col-xs-12 col-sm-12 social_top hidden-xs">
             <div class="row">
               <ul class="pull-right">
-		<li><a href="https://www.linkedin.com/in/samontini" class="fb" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/in.jpg"></a></li>
+		<li><a href="https://www.linkedin.com/in/abbottpmp" class="fb" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/in.jpg"></a></li>
 
                 <!--li><a href="https://www.facebook.com/SamAbbott27" class="fb" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/fb.jpg"></a></li>
                 <li><a href="https://twitter.com/samontini" class="fb" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/tw.jpg"></a></li>
