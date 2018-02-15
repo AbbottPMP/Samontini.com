@@ -1,0 +1,223 @@
+
+@media only screen and (min-width: 900px) and (max-width: 2000px) {
+     .slider_text .view_now {margin-right:150px;}
+
+}
+@media only screen and (min-width: 768px) and (max-width: 990px) {
+    
+ .nav.navbar-nav > li > a {
+    padding: 10px 7px;
+}
+
+.container {
+    width: 100%;
+}
+ 
+ .navbar.header .row { margin: 0;}
+ 
+ .home_mid_blocks .row {margin: 0;}
+ 
+ .footer_social .row > ul {margin: 0;padding: 0;text-align: right;}  
+ 
+ .col-xs-12.col-sm-8.top_menus {padding-right: 0;}
+ 
+ .slider_text .view_now {margin-right:30%;}
+ 
+ 
+    
+    
+} 
+ 
+ 
+ 
+ 
+ 
+ @media screen and (max-width: 767px) {
+ .navbar-brand{
+ padding-top:0;
+ }
+.top_menus .pull-right {
+    float: left !important;
+    padding-left: 67px;
+    width: 97%;
+}
+.footer_menu{
+width:100%;
+text-align:center;
+}
+.footer_social{
+text-align:center;
+}
+.footer_social ul{
+padding-left:0;
+margin-left: 0;
+}
+.mid_bg1{
+margin-bottom:10px;
+}
+
+.mid_bg1{
+margin-right:0px;
+}
+.mid_bg2{
+margin-left:0px;
+}
+.page_wrap.home {
+    background-size: 100% auto;
+  
+    min-height: auto;
+   
+}
+.slider_text {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.sidebar_main{
+ padding-right: 15px;
+}
+
+.page_wrap.home{
+	background:url(../images/home_tablet.jpg) no-repeat top center;	
+	background-color:#a9a9ab;
+	background-repeat:no-repeat;
+
+	}
+	.slider_text{
+	text-align:center;	
+	}
+	.slider_text .visible-xs{
+display: inline-block !important;	
+}
+.home_mid_blocks {
+    margin-top: 313px;
+}
+
+.navbar-collapse ul ul.dropdown-menu {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    border: medium none !important;
+    display: block !important;
+    position: relative !important;
+    width: 100%;
+    margin-left: 0px!important;
+}
+
+
+.navbar-collapse ul ul.dropdown-menu::before {
+    border: medium none !important;
+    margin: 0 !important;
+}
+
+.navbar-collapse ul ul.dropdown-menu::after {
+    border: medium none !important;
+}
+.navbar-nav li.dropdown ul li {
+    border: medium none !important;
+}
+
+.dropdown.menu-item.open:hover ul li a {
+    font-size: 16px !important;
+    margin: 0 !important;
+    padding: 0 0 0 20px !important;
+}
+
+.dropdown.menu-item.open ul li a {
+    line-height: 18px !important;
+    margin: 0 !important;
+    padding: 0 0 0 20px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ }
+ 
+  @media screen and (max-width: 580px) {
+/*	.page_wrap.home{
+	background:url(../images/home_bg_small.png) no-repeat top center;	
+
+	
+	}*/
+	
+.page_wrap.home {
+    background: rgba(0, 0, 0, 0) url("http://www.samontini.com/wp-content/themes/sam/images/home_tablet.jpg") no-repeat scroll 39% top / 581px auto;
+}	
+	
+	
+	
+	.slider_text .view_now {
+    margin-bottom: 0;
+    margin-top: 12px;
+}
+	.home_mid_blocks {
+      margin-top: /*212px*/235px;
+}
+.slider_text{
+margin-bottom:10px;	
+}
+
+.slider_text .visible-xs{
+display: inline-block !important;	
+}
+
+.page_wrap_main{
+    background-image: url("../images/home_mobile_bg.png");
+    background-position: left top;
+    background-size: 100% auto;
+    float: left;
+    width: 100%;
+    	background-color: #a0a1a2;
+	background-repeat:no-repeat;
+}
+
+.navbar-collapse ul ul.dropdown-menu {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    border: medium none !important;
+    display: block !important;
+    position: relative !important;
+    width: 100%;
+    margin-left: 0px!important;
+}
+
+
+.navbar-collapse ul ul.dropdown-menu::before {
+    border: medium none !important;
+    margin: 0 !important;
+}
+
+.navbar-collapse ul ul.dropdown-menu::after {
+    border: medium none !important;
+}
+.navbar-nav li.dropdown ul li {
+    border: medium none !important;
+}
+
+.dropdown.menu-item.open:hover ul li a {
+    font-size: 16px !important;
+    margin: 0 !important;
+    padding: 0 0 0 20px !important;
+}
+
+.dropdown.menu-item.open ul li a {
+    line-height: 18px !important;
+    margin: 0 !important;
+    padding: 0 0 0 20px !important;
+}
+
+
+
+
+
+
+
+
+  }
