@@ -55,10 +55,10 @@ if (have_posts()) : ?>
 
 <?php
 $edate = new DateTime(get_field('date'));
-echo $edate->format('F Y');
+//echo $edate->format('Y');
 ?>
 
-<?php //the_time('F Y') ?></span>
+<?php //the_time('Y') ?></span>
 <?php the_post_thumbnail('small_logo'); ?>
 </div></div>
 <div class="col-xs-12 col-sm-9 col-md-10">
