@@ -57,7 +57,7 @@ if (have_posts()) : ?>
 $date = new DateTime(get_field('date_from'));
 echo $date->format('Y');
 ?>
- <span style="font-weight:normal; font-size:11px;">to</span><br />  
+ <span style="font-weight:bold; font-size:14px;">-</span><br />  
     
 
 <?php $present= get_field('present');
