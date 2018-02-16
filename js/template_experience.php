@@ -55,7 +55,7 @@ if (have_posts()) : ?>
     
 <?php
 $date = new DateTime(get_field('date_from'));
-echo $date->format('m/Y');
+echo $date->format('Y');
 ?>
  <span style="font-weight:normal; font-size:11px;">to</span><br />  
     
@@ -75,7 +75,7 @@ else {
 
 <?php
 $date = new DateTime(get_field('date_to'));
-echo $date->format('m/Y');
+echo $date->format('Y');
 
 }
 ?>    
