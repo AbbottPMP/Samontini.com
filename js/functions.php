@@ -221,7 +221,7 @@ function my_custom_post_education() {
     'not_found'          => __( 'No educations found' ),
     'not_found_in_trash' => __( 'No education found in the Trash' ), 
     'parent_item_colon'  => '',
-    'menu_name'          => 'Educations'
+    'menu_name'          => 'Education'
   );
   $args = array(
     'labels'        => $labels,
